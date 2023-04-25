@@ -1,0 +1,2 @@
+Ở File Tiêu chí nâng cao: 
++ Em sử dụng excel để lưu trữ properties, Save & get Token. 
